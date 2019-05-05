@@ -1,0 +1,12 @@
+---
+name: ItemTrade
+main: aieuo\itemtrade\Main
+version: 0.1
+api: 3.0.0
+author: aieuo
+commands:
+ trade:
+  description: アイテムの取引
+  usage: /trade
+  permission: true
+...
